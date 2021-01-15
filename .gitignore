@@ -1,0 +1,14 @@
+#игнорируемые директории
+.idea/
+node_modules/
+bower_components/
+
+Thumbs.db
+Dekstop.ini
+.DS_Store
+
+#игнор всех файлов в директории log за исключением ![/путь к файлу/имя файла]
+#log/
+#!/log/.htacess
+
+package-lock.json
